@@ -1,0 +1,48 @@
+.signup_box {
+    height: 50vh; 
+    background-image: url('../images/ocean.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.signup_form{ 
+    margin: auto;
+}
+
+.signup_text{
+    width: 50vw;
+    height: 50px;
+    padding-left: 5px;
+    border: 1px solid;
+    border-radius: 4px;
+}
+.signup_text:focus{
+    border: 0px;
+}
+
+.signup_button{
+    height: 50px; 
+    width: 10vw;
+    border: none;
+    margin-left: 5px;
+    border-radius: 5px;
+    background-color: #4a87e8;
+    color: white;
+}
+
+.signup_button_vert{
+    height: 50px;
+    width: 51vw;
+    border: none; 
+    margin-top: 5px;
+    border-radius: 5px;
+    background-color: #4a87e8;
+    color: white;
+}
+
+
+button:hover{
+    background-color: #1767e8;
+}
+

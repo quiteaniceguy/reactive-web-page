@@ -1,0 +1,9 @@
+.fa{
+    padding-top: 7vh;
+    font-size: 20vh; 
+}
+
+.fa:hover{
+    font-size: 25vh;
+    transition: 1s ease-out;
+}
